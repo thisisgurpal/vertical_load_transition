@@ -1,0 +1,18 @@
+.vertical-progress-container {
+    height: 300px; /* Set the desired height for the container */
+    width: 20px;   /* Set the desired width for the container */
+    position: relative;
+  }
+  
+  .vertical-progress-bar {
+    height: 0;
+    width: 100%;
+    background-color: transparent;
+    position: absolute;
+    bottom: 0;
+  }
+
+.progressButton {
+    background-color: black;
+}
+  
